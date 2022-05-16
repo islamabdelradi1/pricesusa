@@ -1,0 +1,32 @@
+.sec1{
+    background-color: #2F8F9D;
+    height: 100vh;
+}
+.sec1 h1{
+    color: white;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.dev{
+padding: 400px 0;
+}
+form input{
+    width: 500px;
+    padding: 10px 0;
+    position: relative;
+}
+form input:focus{
+    outline: none;
+}
+form button{
+    position: absolute;
+    border: none;
+    padding: 12px;
+    background-color: #3BACB6;
+    color: white;
+}
+#now p{
+    color: #B3E8E5;
+    font-size: 25px;
+    margin-top: 20px;
+}
